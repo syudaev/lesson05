@@ -1,0 +1,10 @@
+This file was not created programmatically
+Several lines will be added to it
+The number of lines is calculated, the number of words in each line
+
+Added to the line:
+add new string 100
+add new string 101
+add new string 102
+добавим строки в этот файл
+!!!
